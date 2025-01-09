@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Abdulrazaq Isah!</h1>
+<h1 align="center">Hi 👋, I'm Abdulrazaq Isah!</h1>
 <h3 align="center">A passionate Computer scientist specialized in AI/ML, Data science, Bioinformatics and Python-based programming. Building Innovative solutions to solve real world problems in Africa and beyond.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-abd&label=Profile%20views&color=0e75b6&style=flat" alt="sir-abd" /> </p>
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/dikkoisah99418" target="blank"><img src="https://img.shields.io/twitter/follow/dikkoisah99418?logo=twitter&style=for-the-badge" alt="dikkoisah99418" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on [Titanic survival dataset](https://colab.research.google.com/drive/10ew-X3b9wgMQSPymh-4z0Kn8qjYEg92N#scrollTo=JBcWmPL7HYg2)
+- 🔭 currently working on [Titanic survival dataset](https://colab.research.google.com/drive/10ew-X3b9wgMQSPymh-4z0Kn8qjYEg92N#scrollTo=JBcWmPL7HYg2)
 
-- ðŸŒ± Iâ€™m currently learning **Data science, Bioinformatics, Machine learning and Advance Python programming.**
+- 🌱 currently learning **Data science, Bioinformatics, Machine learning and Advance Python programming.**
 
-- ðŸ¤ Iâ€™m looking for help with **Scholarship**
+- 🤝 looking for help with **Scholarship**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/Sir-ABD](https://github.com/Sir-ABD)
+- 📈 All of my projects are available at [https://github.com/Sir-ABD](https://github.com/Sir-ABD)
 
-- ðŸ“ I regularly write articles on [medium.com/@abdulrazaqisahdikko334](medium.com/@abdulrazaqisahdikko334)
+- 📃 I regularly write articles on [medium.com/@abdulrazaqisahdikko334](medium.com/@abdulrazaqisahdikko334)
 
-- ðŸ’¬ Ask me about **Python, AI and Data science.**
+- ❓ Ask me about **Python, AI and Data science.**
 
-- ðŸ“« How to reach me **abdulrazaqisahdikko334@gmail.com**
+- 📨 How to reach me **abdulrazaqisahdikko334@gmail.com**
 
-- âš¡ Fun fact **I believe that every heartbeat, every step is data telling the story of our life.**
+- 🤓 Fun fact **I believe that every heartbeat, every step is data telling the story of our life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
