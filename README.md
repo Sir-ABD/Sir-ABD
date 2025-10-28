@@ -9,7 +9,7 @@
 
 - 🔭 currently working on [Titanic survival dataset](https://colab.research.google.com/drive/10ew-X3b9wgMQSPymh-4z0Kn8qjYEg92N#scrollTo=JBcWmPL7HYg2)
 
-- 🌱 currently learning **Data science, Bioinformatics, Machine learning and Advance Python programming.**
+- 🌱 currently learning **Data science, MedAI, Machine learning and Advance Python programming.**
 
 - 🤝 looking for help with **Scholarship**
 
